@@ -8,9 +8,7 @@ $> docker-compose up -d
 
 # clickhouse-server
 
-Port **8123**
-Port **9000**
-Port **9009**
+Port **8123**, **9000**, **9009**
 
 # tabix
 
