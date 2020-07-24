@@ -1,5 +1,5 @@
-# 19.4.3.11 could be changed to latest
-FROM yandex/clickhouse-server:19.4.3.11
+#FROM yandex/clickhouse-server:19.4.3.11
+FROM yandex/clickhouse-server:latest
 
 ENV ch /etc/clickhouse-server/
 
